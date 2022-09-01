@@ -39,7 +39,7 @@ In this projects I have worked to automated four types of following elements
 - (1)
 
 
-## 4. Page Object Model
+## 4. Page Object Model (Login Operation)
 
 I have made one separate class file for the automation script making. After that i made one separate folder and Js files for the seperate test cases.
 I covered here the demo "LOGIN" method by using page object model
