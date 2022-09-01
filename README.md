@@ -4,7 +4,7 @@ In this projects I have worked to automated four types of following elements
 1. Handling UI Elements
 2. HTML Table Automation
 3. Page Navigation
-4. Page Object Model
+4. Page Object Model (Login Operation)
 
 ## 1. Handling UI Elements
 
