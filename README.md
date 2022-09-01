@@ -1,6 +1,6 @@
 # Web Automation using Cypress Automation Tool
 
-In this projects I have automated three types of following items
+In this projects I have worked to automated four types of following elements
 1. Handling UI Elements
 2. HTML Table Automation
 3. Page Navigation
