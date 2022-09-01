@@ -41,25 +41,22 @@ In this projects I have automated three types of following items
 
 ## 4. Page Object Model
 
-I have made one class file for the
+I have made one separate class file for the automation script making. After that i made one separate folder and Js files for the seperate test cases.
+I covered here the demo "LOGIN" method by using page object model
 
 
 ### Technology used
-    - Test tool: Selenium
-    - Language: Java
-    - Framework: TestNG
-    - IDE: Eclipse
+    - Test tool: Cypress
+    - Language: JavaScript
+    - Framework: Mocha
+    - IDE: Visual Studio Code
 
 ### Pre-Requisites:
-    - Open/install Java JDK 8 version on your PC
-    - Install Maven on your PC
-    - Install TestNG on your IDE
-    - Install Eclipse/STS or any other IDE
-    - Setup Java, Maven environment on your PC
-    - Chrome driver match with your browser
+    - Install Visual Studio Code IDE
+    - Install Cypress tools
 
 ### Run the script:
-    - Right Click to Project
-    - Then select Run as TestNG
-    - Run the Test Case
+    - Run the Test Runner
+    - Open the test case file folder
+    - Open the test case for execute
     - Close the program
